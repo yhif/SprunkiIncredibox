@@ -45,8 +45,8 @@ const recommendedGames = [
     {
         href: "../abgerny/",
         imgSrc: "../img/sprunki-abgerny.png",
-        alt: "Sprunki Abgerny",
-        title: "Sprunki Abgerny",
+        alt: "Abgerny",
+        title: "Abgerny",
         description: "New sounds & characters!"
     },
     {
@@ -59,8 +59,8 @@ const recommendedGames = [
     {
         href: "../remastered/",
         imgSrc: "../img/remastered.webp",
-        alt: "Sprunki remastered",
-        title: "Sprunki remastered",
+        alt: "Sprunki Remastered",
+        title: "Sprunki Remastered",
         description: "Experience the remastered Friday Night Funkin'!"
     }
 ];
